@@ -14,3 +14,10 @@ Su Nguyen, Mengjie Zhang, Damminda Alahakoon, Kay Chen Tan. “Visualising the E
 * Automated design of production heuristics
 * Resourse-constrained job scheduling
 * Order acceptance and scheduling
+
+# Dependencies
+All dependencies are included in the lib/ and mitlib/ folders
+This project is created from PyCharm so Pycharm users can directly open this project
+
+# Quick start
+For dynamic job shop scheduling, run *src/problems/EvolveProductionHeuristics.java*
