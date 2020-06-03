@@ -23,7 +23,9 @@ This project is created from PyCharm so Pycharm users can directly open this pro
 For dynamic job shop scheduling, run *src/problems/EvolveProductionHeuristics.java*
 
 ## Visualise the evolution process
+Generated heuristics are represented as a graph in which nodes represents a particular phenotypic behaviours. Large nodes indicate that the algorithm have revisted programs corresponding to that behaviour frequently.
 ![alt text](https://github.com/nguyensu/pces/blob/master/papers/minitor.PNG)
 
 ## Interact and guide the evolution process
+Users can decide to stop and provide their preferences which can be used by PES to guide the evolution process.
 ![alt text](https://github.com/nguyensu/pces/blob/master/papers/interact.PNG)
