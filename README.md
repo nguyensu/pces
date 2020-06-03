@@ -23,7 +23,7 @@ This project is created from PyCharm so Pycharm users can directly open this pro
 For dynamic job shop scheduling, run *src/problems/EvolveProductionHeuristics.java*
 
 ## Visualise the evolution process
-![alt text](https://github.com/nguyensu/pces/blob/master/papers/interact.PNG)
+![alt text](https://github.com/nguyensu/pces/blob/master/papers/minitor.PNG)
 
 ## Interact and guide the evolution process
-![alt text](https://github.com/nguyensu/pces/blob/master/papers/minitor.PNG)
+![alt text](https://github.com/nguyensu/pces/blob/master/papers/interact.PNG)
