@@ -1,4 +1,4 @@
-#People-centric Evolutionary System (PES)
+# People-centric Evolutionary System (PES)
 
 PES is a new machine learning system that combines the flexibility of genetic-based machine learning algorithms, dimensionality reduction, data visualisation, and human insights to learn competitive and interpretable predictive models and business rules. Different from conventional machine learning algorithms, PES allows users (e.g. data scientists and researchers) to monitor the evolutionary/training process of their models and to interactively intervene and decide how models should be built.
 
